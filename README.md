@@ -1,4 +1,4 @@
-# auto-green
+# Green-Github
 
 
 自动保持 GitHub 提交状态常绿。
