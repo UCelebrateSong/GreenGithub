@@ -47,4 +47,4 @@
 
 ## License
 
-[auto-green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[GreenGithub](https://github.com/UCelebrateSong/GreenGithub/tree/main) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
